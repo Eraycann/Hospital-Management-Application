@@ -17,17 +17,12 @@ This project is a software designed to manage daily operations of a hospital. It
 ```bash
 git clone https://github.com/user/hospital-management-system.git
 ```
-Open the project in Visual Studio.
+2. Open the project in Visual Studio.
 
-Update the SQL Server connection string in the app.config file.
+3. Update the SQL Server connection string in the app.config file.
 
-Build and run the project.
+4. Build and run the project.
 
-
-Certainly! Here's the README content in Markdown format:
-
-markdown
-Copy code
 # Hospital Management System
 
 This project is a software designed to manage daily operations of a hospital. It's aimed to facilitate operations for patients, doctors, and secretaries.
@@ -41,12 +36,15 @@ This project is a software designed to manage daily operations of a hospital. It
 - **Patients**: Patients can schedule appointments, select their doctors, and view their medical histories.
 - **Secretaries**: Secretaries can manage appointments, update doctor and patient information.
 
+## Technologies Used
+ADO.NET: Used for database operations. WinForms: Utilized for building the user interface.
+
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/user/hospital-management-system.git
+git clone git clone https://github.com/user/hospital-management-system.git
 ```
 2. Open the project in Visual Studio.
 
